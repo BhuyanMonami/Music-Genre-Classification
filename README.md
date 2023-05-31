@@ -35,5 +35,5 @@ Standard performance metrics like the Confusion Matrix, Accuracy score, Precisio
 - Run the code **SVM_mel.ipynb** and **XGB_mel.ipynb** to run the classical machine learning models using Mel spectogram features.
 - Run the codes **CNN.ipynb** , **lstm.ipynb**, **resnetv3.ipynb** to run the deep learning models using Mel spectrogram features.
 
-**Inference**
+**Inference:**
 Compared to our baseline model (XGBoost-Mel Spectrogram model), the 2D CNN model with 6 layers outperformed all other algorithms with an accuracy score of 76%. 
