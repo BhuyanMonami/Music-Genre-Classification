@@ -26,6 +26,7 @@ The problem at hand is to develop an accurate music genre classification model u
       
       ├── rock
 
+**MODEL TRAINING**
 - Run the code **handcrafted_features.ipynb** to extract the audio features and the classical machine learning models( SVM and XGBoost) for combined features.
 - Run the code **SVM_mel.ipynb** and **XGB_mel.ipynb** to run the classical machine learning models using Mel spectogram features.
 - Run the codes **CNN.ipynb** , **lstm.ipynb**, **resnetv3.ipynb** to run the deep learning models using Mel spectrogram features.
