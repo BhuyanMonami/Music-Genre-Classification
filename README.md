@@ -8,7 +8,6 @@ The problem at hand is to develop an accurate music genre classification model u
 
 **DATA** : The GTZAN dataset can be found in the **data** directory of this repo. 
 
-
 ├── data/
 
    ├── genres
