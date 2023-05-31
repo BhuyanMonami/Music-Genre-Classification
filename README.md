@@ -6,4 +6,13 @@ Music genre classification is utilized by music streaming services to recommend 
 The problem at hand is to develop an accurate music genre classification model using Machine Learning and Deep Learning algorithms. The goal is to train audio datasets for this purpose and compare the performance of different models with a Baseline model. The challenge is to identify the most effective algorithm for this task, given the subjective nature of music and the potential overlap between some genres. The ultimate objective is to push the accuracy measure of the current state-of-the-art in music genre classification models. Standard performance metrics like the Confusion Matrix, Accuracy score, Precision score, Recall score, and F1 score were used to evaluate different models used in this task. 
 
 
-**DATA** : The GTZAN dataset can be download from Download the GTZAN dataset here
+**DATA** : The GTZAN dataset can be found in the **data** directory of this repo. 
+├── data/
+   ├── genres
+      ├── blues
+      ├── classical
+      ├── country
+      .
+      .
+      .
+      ├── rock
