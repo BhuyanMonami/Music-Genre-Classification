@@ -10,11 +10,19 @@ The problem at hand is to develop an accurate music genre classification model u
 
 
 ├── data/
+
    ├── genres
+   
       ├── blues
+      
       ├── classical
+      
       ├── country
+      
       .
+      
       .
+      
       .
+      
       ├── rock
